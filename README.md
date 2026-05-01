@@ -7,7 +7,7 @@ in gold on a near-black background, and publishes it to a stable GitHub Pages UR
 The image at the URL changes daily; the URL itself never does.
 
 ```
-https://<your-username>.github.io/<repo-name>/wallpaper.png
+https://raw.githubusercontent.com/<your-username>/<repo-name>/refs/heads/main/docs/wallpaper.png
 ```
 
 ---
@@ -153,3 +153,14 @@ That's it — every morning your lock screen will refresh with the new ayah.
 - **Amiri** font: © Khaled Hosny — SIL Open Font License 1.1.
 - **Cormorant Garamond** font: © Christian Thalmann — SIL Open Font License 1.1.
 - App code: do whatever you'd like with it.
+
+## To-Do
+- [ ] Change arabic font to use harakat
+- [ ] Fix sizing to fit within widgets
+- [ ] Header generation for security when requesting image (maybe)
+
+## Future Development
+- [ ] Creating a interface / mobile application to handle user creation and customised wallpaper generation
+- [ ] Wallpaper generation for different domains: Bible quotes, Inspirational Quotes, Countdown
+- [ ] Subscription method for different fonts, colours, and background (essentially more customisation)
+- [ ] Free Palestine flag in corner - money to go to charity
