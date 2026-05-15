@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-14",
-  "surah": 55,
+  "date": "2026-05-15",
+  "surah": 103,
   "ayah": 2,
-  "reference": "55:2",
-  "surah_name_en": "Ar-Rahmaan",
-  "surah_name_ar": "سُورَةُ الرَّحۡمَٰن",
-  "arabic": "عَلَّمَ ٱلْقُرْءَانَ",
-  "english": "Taught the Qur'an,",
+  "reference": "103:2",
+  "surah_name_en": "Al-Asr",
+  "surah_name_ar": "سُورَةُ العَصۡرِ",
+  "arabic": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+  "english": "Indeed, mankind is in loss,",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
