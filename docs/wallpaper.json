@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-19",
-  "surah": 1,
-  "ayah": 6,
-  "reference": "1:6",
-  "surah_name_en": "Al-Faatiha",
-  "surah_name_ar": "سُورَةُ ٱلْفَاتِحَةِ",
-  "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
-  "english": "Guide us to the straight path -",
+  "date": "2026-05-20",
+  "surah": 18,
+  "ayah": 23,
+  "reference": "18:23",
+  "surah_name_en": "Al-Kahf",
+  "surah_name_ar": "سُورَةُ الكَهۡفِ",
+  "arabic": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا",
+  "english": "And never say of anything, \"Indeed, I will do that tomorrow,\"",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
