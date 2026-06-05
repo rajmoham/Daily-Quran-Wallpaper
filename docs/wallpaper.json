@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-04",
-  "surah": 112,
-  "ayah": 1,
-  "reference": "112:1",
-  "surah_name_en": "Al-Ikhlaas",
-  "surah_name_ar": "سُورَةُ الإِخۡلَاصِ",
-  "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-  "english": "Say, \"He is Allah, [who is] One,",
+  "date": "2026-06-05",
+  "surah": 31,
+  "ayah": 13,
+  "reference": "31:13",
+  "surah_name_en": "Luqman",
+  "surah_name_ar": "سُورَةُ لُقۡمَانَ",
+  "arabic": "وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+  "english": "And [mention, O Muhammad], when Luqman said to his son while he was instructing him, \"O my son, do not associate [anything] with Allah. Indeed, association [with him] is great injustice.\"",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
