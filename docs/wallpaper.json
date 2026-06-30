@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-29",
-  "surah": 112,
-  "ayah": 2,
-  "reference": "112:2",
-  "surah_name_en": "Al-Ikhlaas",
-  "surah_name_ar": "سُورَةُ الإِخۡلَاصِ",
-  "arabic": "ٱللَّهُ ٱلصَّمَدُ",
-  "english": "Allah, the Eternal Refuge.",
+  "date": "2026-06-30",
+  "surah": 9,
+  "ayah": 51,
+  "reference": "9:51",
+  "surah_name_en": "At-Tawba",
+  "surah_name_ar": "سُورَةُ التَّوۡبَةِ",
+  "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+  "english": "Say, \"Never will we be struck except by what Allah has decreed for us; He is our protector.\" And upon Allah let the believers rely.",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
