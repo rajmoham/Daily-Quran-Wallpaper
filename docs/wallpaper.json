@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-20",
-  "surah": 1,
-  "ayah": 6,
-  "reference": "1:6",
-  "surah_name_en": "Al-Faatiha",
-  "surah_name_ar": "سُورَةُ ٱلْفَاتِحَةِ",
-  "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
-  "english": "Guide us to the straight path -",
+  "date": "2026-07-21",
+  "surah": 47,
+  "ayah": 7,
+  "reference": "47:7",
+  "surah_name_en": "Muhammad",
+  "surah_name_ar": "سُورَةُ مُحَمَّدٍ",
+  "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+  "english": "O you who have believed, if you support Allah, He will support you and plant firmly your feet.",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
