@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-21",
-  "surah": 36,
-  "ayah": 4,
-  "reference": "36:4",
-  "surah_name_en": "Yaseen",
-  "surah_name_ar": "سُورَةُ يسٓ",
-  "arabic": "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
-  "english": "On a straight path.",
+  "date": "2026-08-22",
+  "surah": 108,
+  "ayah": 1,
+  "reference": "108:1",
+  "surah_name_en": "Al-Kawthar",
+  "surah_name_ar": "سُورَةُ الكَوۡثَرِ",
+  "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+  "english": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
