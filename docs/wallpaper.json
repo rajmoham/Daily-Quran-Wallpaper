@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-28",
-  "surah": 2,
-  "ayah": 2,
-  "reference": "2:2",
-  "surah_name_en": "Al-Baqara",
-  "surah_name_ar": "سُورَةُ البَقَرَةِ",
-  "arabic": "ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
-  "english": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
+  "date": "2026-08-29",
+  "surah": 1,
+  "ayah": 6,
+  "reference": "1:6",
+  "surah_name_en": "Al-Faatiha",
+  "surah_name_ar": "سُورَةُ ٱلْفَاتِحَةِ",
+  "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+  "english": "Guide us to the straight path -",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
