@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-14",
-  "surah": 1,
-  "ayah": 1,
-  "reference": "1:1",
-  "surah_name_en": "Al-Faatiha",
-  "surah_name_ar": "سُورَةُ ٱلْفَاتِحَةِ",
-  "arabic": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-  "english": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+  "date": "2026-09-15",
+  "surah": 78,
+  "ayah": 39,
+  "reference": "78:39",
+  "surah_name_en": "An-Naba",
+  "surah_name_ar": "سُورَةُ النَّبَإِ",
+  "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+  "english": "That is the True Day; so he who wills may take to his Lord a [way of] return.",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
