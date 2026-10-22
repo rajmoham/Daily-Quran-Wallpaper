@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-21",
-  "surah": 1,
-  "ayah": 4,
-  "reference": "1:4",
-  "surah_name_en": "Al-Faatiha",
-  "surah_name_ar": "سُورَةُ ٱلْفَاتِحَةِ",
-  "arabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
-  "english": "Sovereign of the Day of Recompense.",
+  "date": "2026-10-22",
+  "surah": 76,
+  "ayah": 9,
+  "reference": "76:9",
+  "surah_name_en": "Al-Insaan",
+  "surah_name_ar": "سُورَةُ الإِنسَانِ",
+  "arabic": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءًۭ وَلَا شُكُورًا",
+  "english": "[Saying], \"We feed you only for the countenance of Allah. We wish not from you reward or gratitude.",
   "translation_edition": "en.sahih",
   "arabic_edition": "quran-uthmani"
 }
